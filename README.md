@@ -18,7 +18,7 @@ For the first potion of the challenge, as we merged the two csv files to create 
 -	Average Fare per Driver
 
 
-![summary_dataframe](
+![city_dataframe](Analysis/city_dataframe.png)
 
 Examining the results, it can clearly be seen that Urban city types by far have the highest amounts of total rides, drivers, and fares compared to suburban and rural areas. Comparing rural and urban city types alone, urban cities collect a total of 13 times more rides than rural areas. Urban cities by far outpace the other two city categories, which signifies greater use of PyBer in urban areas than in the other two city regions. Suburban ranks second in PyBer usage, being used less than in urban cities but more than rural areas. 
 
