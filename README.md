@@ -7,7 +7,7 @@ For this second part of the project, V. Isualize and Omar are inquiring about a 
 
 The ultimate goal with this second portion of the project is to assist PyBer in providing better access to its ride sharing services and determine affordability for underserved neighborhoods. 
 
-## Tech Used:
+## Tools Used:
 - Python
 - Pandas
 - Matplotlib
